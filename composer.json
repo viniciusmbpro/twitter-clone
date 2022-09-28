@@ -1,5 +1,5 @@
 {
-    "name": "vendor/miniframework",
+    "name": "vendor/mf",
     "require": {
         "php": ">= 7.0"
     },
@@ -12,7 +12,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "App/",
-            "MF\\": "vendor/MF/"
+            "MF\\": "MF/"
         }
     }
 }
